@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "nome": "João",
+        "idade": 30,
+        "cidade": "São Paulo",
+        "uf": "SP"
+    },
+    {
+        "id": 2,
+        "nome": "Maria",
+        "idade": 28,
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ"
+    },
+    {
+        "id": 3,
+        "nome": "Pedro",
+        "idade": 35,
+        "cidade": "Belo Horizonte",
+        "uf": "MG"
+    },
+    {
+        "id": 4,
+        "nome": "Ana",
+        "idade": 22,
+        "cidade": "Brasília",
+        "uf": "DF"
+    },
+    {
+        "id": 5,
+        "nome": "Lucas",
+        "idade": 40,
+        "cidade": "Salvador",
+        "uf": "BA"
+    },
+    {
+        "id": 6,
+        "nome": "Julia",
+        "idade": 29,
+        "cidade": "Curitiba",
+        "uf": "PR"
+    },
+    {
+        "id": 7,
+        "nome": "Mariana",
+        "idade": 33,
+        "cidade": "Fortaleza",
+        "uf": "CE"
+    },
+    {
+        "id": 8,
+        "nome": "Rafael",
+        "idade": 29,
+        "cidade": "Porto Alegre",
+        "uf": "RS"
+    },
+    {
+        "id": 10,
+        "nome": "Luiz",
+        "idade": 18,
+        "cidade": "Manaus",
+        "uf": "AM"
+    },
+    {
+        "id": 12,
+        "nome": "Rodineidson",
+        "idade": 99,
+        "cidade": "bc",
+        "uf": "sc"
+    },
+    {
+        "id": 13,
+        "nome": "Rudinei",
+        "idade": 77,
+        "cidade": "CWB",
+        "uf": "PR"
+    }
+]
